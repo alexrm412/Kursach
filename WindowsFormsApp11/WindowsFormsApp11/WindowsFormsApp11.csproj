@@ -51,10 +51,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -90,6 +99,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\runer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\патрон.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hole.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pushechka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruzzho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\continue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\points.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\патронсо.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\патронус.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

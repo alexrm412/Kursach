@@ -1,9 +1,20 @@
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojResolveAssemblyReference.cache
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.Cache
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
-c:\users\александр\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Menu.resources
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+E:\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+E:\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Menu.resources
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.Cache
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+E:\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
